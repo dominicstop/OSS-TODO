@@ -2,7 +2,10 @@
 
 
 
-- [ ] `react-native-ios-context-menu` — **Implement**: Extract "notify js unmount" capability to protocol and conform to it.
+- [ ] **Update**: `react-native-ios-context-menu`
+
+	- [ ]  **Implement**: Extract "notify js unmount" capability to protocol and conform to it.
+	- [x] **Refactor**: Types — Extract types from `src/types/ImageItemConfig` to their own files inside a directory called `ImageItemConfig`.
 
 - [ ] **Update**: `react-native-ios-utilities` and `react-native-ios-popover`
 
