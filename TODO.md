@@ -12,7 +12,11 @@ List of things to do...
 
 ## WIP
 
-- [ ] `react-native-ios-modal`: Re-write library.
+- [ ] `react-native-ios-modal`: Initial Rewrite #1.
+
+	* Next Version: `1.0` — Initial rewrite to use modern project template + add types.
+		* Do not re-write logic yet or add any features yet.
+
 	- [x] Create a `wip` branch.
 	- [ ] Create a new project, and transplant the old project into the newly created project.
 		- [x] Create a new template project.
@@ -28,7 +32,17 @@ List of things to do...
 		- [ ] Transfer the old git history into the new project.
 		- [ ] Commit changes and release.
 	- [ ] Types - Add placeholder types.
-	- [ ] Example - Update example
+	- [ ] Example - Update example.
+	- [ ] Docs - Add "Rewrite WIP" in library README.
+
+<br>
+
+- [ ] `react-native-ios-modal`: Initial Rewrite #2
+
+	* Next Version: `2.0` — Rewrite to use `react-native-ios-utilities`
+
+	- [ ] **Refactor**: Use `RNIWrapperView` for holding the modal content.
+	- [ ] **Refactor**: Use `RNIJSComponentWillUnmountNotifiable` for cleanup.
 
 <br><br>
 
