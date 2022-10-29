@@ -1,6 +1,19 @@
 # TODO
 
+List of things to do...
 
+<br><br>
+
+# ## WIP
+
+- [ ] `react-native-ios-modal`: Re-write library.
+	- [ ] Create a `wip` branch.
+	- [ ] Transplant project configuration
+	- [ ] Types - Add placeholder types.
+
+<br><br>
+
+## Completed
 
 - [x] **Update**: `react-native-ios-context-menu`
 
@@ -19,7 +32,7 @@
 	<br>
 
 	- [x] `react-native-ios-popover` — **Refactor**: Update to use `RNIJSComponentWillUnmountNotifiable`. 
-	- [ ] `react-native-ios-popover` — **Refactor**: Make swift classes + types public. 
+	- [x] `react-native-ios-popover` — **Refactor**: Make swift classes + types public. 
 	- [x] `react-native-ios-utilities` — **Release**: Publish a new pre-release version.
 	- [x] `react-native-ios-popover` —  **Update**: Bump `react-native-ios-utilities` version dependency to use new pre-release version.
 	- [x] `react-native-ios-popover` —  **Test**: Run and test example to make sure everything works.
@@ -41,10 +54,3 @@
 		* `react-native-ios-utilities` - `3.x`
 			* `react-native-ios-modal` - `3.x`
 			* `react-native-ios-popover` - `3.x`
-
-<br>
-
-- [ ] `react-native-ios-modal`: Re-write library.
-	- [ ] Create a `wip` branch.
-	- [ ] Transplant project configuration
-	- [ ] Types - Add placeholder types.
