@@ -4,12 +4,31 @@ List of things to do...
 
 <br><br>
 
-# ## WIP
+## Misc
+
+- [ ] Update email address in library packages + github.
+
+<br><br>
+
+## WIP
 
 - [ ] `react-native-ios-modal`: Re-write library.
-	- [ ] Create a `wip` branch.
-	- [ ] Transplant project configuration
+	- [x] Create a `wip` branch.
+	- [ ] Create a new project, and transplant the old project into the newly created project.
+		- [x] Create a new template project.
+		- [ ] Build and run template project.
+		- [ ] Re-Configure template project and remove any unnecessary additions/packages/etc. 
+			- [ ] Temporarily reconfigure `tsconfig` to make it less strict.
+		- [ ] Migrate project into the new project.
+			- [ ] Remove generated template/placeholder files
+			- [ ] Migrate iOS project
+			- [ ] Migrate example files
+			- [ ] Migrate js files.
+		- [ ] Test and make sure it builds and compiles. 
+		- [ ] Transfer the old git history into the new project.
+		- [ ] Commit changes and release.
 	- [ ] Types - Add placeholder types.
+	- [ ] Example - Update example
 
 <br><br>
 
